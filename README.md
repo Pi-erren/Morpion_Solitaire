@@ -1,10 +1,10 @@
+* Authors: Doubabi Mustapha, Neveu Pierre
+* Course: Object programming
+* University: PSL Paris Dauphine
+  
 # Morpion Solitaire - Java project: University of Paris Dauphine
 
-Our version of Morpion Solitaire
-
-## Authors
-Mustapha Doubabi
-Pierre Neveu
+Our implementation of Morpion Solitaire game, see https://fr.wikipedia.org/wiki/Morpion_solitaire
 
 ## Launch
 
