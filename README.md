@@ -1,4 +1,5 @@
 * Authors: Doubabi Mustapha, Neveu Pierre
+* Grade: 19/20
 * Course: Object programming
 * University: PSL Paris Dauphine
   
