@@ -10,7 +10,7 @@
 Our implementation of Morpion Solitaire game, see https://fr.wikipedia.org/wiki/Morpion_solitaire
 
 ## Nested Monte Carlo Search
-We implemented the NMCS algorithm from https://www.lamsade.dauphine.fr/~cazenave/papers/nested.pdf.  
+We implemented the NMCS algorithm by Tristan Cazenave: https://www.lamsade.dauphine.fr/~cazenave/papers/nested.pdf.  
   
 The paper results on Morpion solitaire:  
   <img width="895" alt="Capture d’écran 2025-05-31 à 14 53 31" src="https://github.com/user-attachments/assets/393a92cb-f044-4861-a720-618178cf38b4" />
