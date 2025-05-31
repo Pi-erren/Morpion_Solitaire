@@ -15,7 +15,7 @@ We implemented the NMCS algorithm by Tristan Cazenave: https://www.lamsade.dauph
 The paper results on Morpion solitaire:  
   <img width="895" alt="Capture d’écran 2025-05-31 à 14 53 31" src="https://github.com/user-attachments/assets/393a92cb-f044-4861-a720-618178cf38b4" />
   
-Our results with limited computation ressources:  
+Our results with limited computation ressources and timeout that stops the search after 30 sec of computing:  
 <img width="925" alt="Capture d’écran 2025-05-31 à 14 55 26" src="https://github.com/user-attachments/assets/83e86c76-9c09-44d3-82bd-53b6434496b5" />
   
 ## Launch
